@@ -1,0 +1,8 @@
+[{"question": "What is the largest mamal on earth? ", "answers": ["Elephent", "Blue Whale", "Giraffe", "Hipopotamus"], "correct answer": 2}, 
+{"question": "Which animal is know as 'The king of the jungle' ", "answers": ["Tiger", "Cheetah", "Gorilla", "Lion"], "correct answer": 4},
+{"question": "What is the only animal capable of sustrained flight ", "answers": ["Bat", "Owl", "Eagle", "Pigeon"], "correct answer": 1},
+{"question": "Which animal is known for its black and white stripes? ", "answers": ["Hyena", "Gazzel", "Zebra"], "correct answer": 3},
+{"question": "Which of the following does not lay eggs? ", "answers": ["Playtpus", "Turtle", "Kangaroo", "Snake"], "correct answer": 3},
+{"question": "What is the largest species of a bear? ", "answers": ["Black Bear", "Brown Bear", "Polar Bear", "Grizzly Bear"], "correct answer": 3},
+{"question": "Which animal has the largest brain relative to its body? ", "answers": ["Dolphin", "Human", "Elephant", "Orca"], "correct answer": 1},
+{"question": "What is the only continent where you won't find any native species of ants? ", "answers": ["Africa", "Europe", "Antartica", "Asia"], "correct answer": 2}]
